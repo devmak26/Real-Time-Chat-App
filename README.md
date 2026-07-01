@@ -128,8 +128,7 @@ Real-Time-Chat-App/
 │   └── .env.example
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
+
 ```
 
 ---

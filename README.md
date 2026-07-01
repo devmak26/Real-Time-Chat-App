@@ -24,8 +24,8 @@ A full-stack real-time messaging application that enables users to communicate i
 ### Frontend
 
 * React.js
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Socket.IO Client
 
